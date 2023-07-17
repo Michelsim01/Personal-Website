@@ -24,9 +24,9 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Information Systems undergraduate from NUS{" "}
             </span>
-            and an{" "}  
+            with a passion for the dynamic and ever-evolving world of technology. My diverse skill set spans across{" "}  
             <span className="font-semibold text-orange-600">
-              aspiring software developer
+              software development, data analytics, project management, and business development
             </span>
             . Working towards creating software that makes life easier and more meaningful.
           </p>
